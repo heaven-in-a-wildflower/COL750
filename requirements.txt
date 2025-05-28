@@ -1,0 +1,6 @@
+Package    Version
+---------- ---------
+pip        24.0
+python-sat 1.8.dev14
+six        1.17.0
+z3-solver  4.13.4.0
